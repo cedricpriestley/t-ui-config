@@ -1,0 +1,9 @@
+
+b=brightness
+c=chrome
+t=termux
+x=x-plore
+dv=droidvim
+ps=playstore
+gm=gmail
+pg=pocketgit
